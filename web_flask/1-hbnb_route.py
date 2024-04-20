@@ -21,4 +21,4 @@ def hbnb_HBNB():
     return "HBNB"
 
 if __name__ == "__main__":
-    HBNB.run(host="0.0.0.0")
+    HBNB.run(host="0.0.0.0", port=5000)
