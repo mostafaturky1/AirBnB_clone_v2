@@ -30,4 +30,4 @@ def c_HBNB(text):
 
 
 if __name__ == "__main__":
-    HBNB.run()
+    HBNB.run(host="0.0.0.0", port=5000)
