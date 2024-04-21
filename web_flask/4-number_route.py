@@ -42,5 +42,6 @@ def Number_HBNB(n):
     """Displays 'python <text>'"""
     return f"{n} is a number"
 
+
 if __name__ == "__main__":
     HBNB.run()
