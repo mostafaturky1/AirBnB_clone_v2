@@ -26,7 +26,7 @@ def hbnb_HBNB():
 def c_HBNB(text):
     """Displays 'HBNB'"""
     text = text.replace("_", " ")
-    return ("c" + " " + text)
+    return ("C" + " " + text)
 
 
 if __name__ == "__main__":
