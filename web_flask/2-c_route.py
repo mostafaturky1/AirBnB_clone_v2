@@ -28,5 +28,6 @@ def c_HBNB(text):
     text = text.replace("_", " ")
     return ("c" + " " + text)
 
+
 if __name__ == "__main__":
     HBNB.run()
